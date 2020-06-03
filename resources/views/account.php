@@ -179,8 +179,8 @@ session_start();
                                  ?>
                                     <h4>Login</h4>
                                     <form action="login.php" method="POST" class="aa-login-form">
-                                    <label for="">Usuário<span>*</span></label>
-                                        <input name= "usuario" type="text" placeholder="Usuario">
+                                    <label for="">Email<span>*</span></label>
+                                        <input name= "usuario" type="text" placeholder="Email">
                                         <label for="">Senha<span>*</span></label>
                                         <input name="senha" type="password" placeholder="Senha">
                                         <button type="submit" class="aa-browse-btn">Login</button>
@@ -193,8 +193,8 @@ session_start();
                                     <form action="cadastrar.php" method="POST" class="aa-login-form">
                                         <label for="">Nome<span>*</span></label>
                                         <input name= "nome" type="text" placeholder="Nome">
-                                        <label for="">Usuário<span>*</span></label>
-                                        <input name= "usuario" type="text" placeholder="Usuario">
+                                        <label for="">Email<span>*</span></label>
+                                        <input name= "usuario" type="text" placeholder="Email">
                                         <label for="">Senha<span>*</span></label>
                                         <input name="senha" type="password" placeholder="Senha">
                                         <button type="submit" class="aa-browse-btn">Registre-se</button>

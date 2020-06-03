@@ -172,14 +172,10 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">This is Title</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Água de Coco Ducoco 200 ml</a></h4>
+                      <span class="aa-product-price">R$ 2,30</span>
                     </figcaption>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sale" href="#">SALE!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -187,14 +183,9 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                    </figcaption>
-                  </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
+                      <h4 class="aa-product-title"><a href="#">Água Mineral com gás Crystal 1,5L</a></h4>
+                      <span class="aa-product-price">R$ 2,99</span>
+                      </figcaption>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -202,12 +193,11 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                    </figcaption>
+                      <h4 class="aa-product-title"><a href="#">Água Mineral sem gás Crystal 1,5L</a></h4>
+                      <span class="aa-product-price">R$ 1,85</span>
+                      </figcaption>
                   </figure>
-                   
+
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -215,14 +205,9 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                    </figcaption>
-                  </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-hot" href="#">HOT!</span>
+                      <h4 class="aa-product-title"><a href="#">Energético Burn Garrafa 1L</a></h4>
+                      <span class="aa-product-price">R$ 9,48</span>
+                      </figcaption>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -230,12 +215,11 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Energético Red Bull 250ml</a></h4>
+                      <span class="aa-product-price">R$ 7,49</span>
                     </figcaption>
                   </figure>
-                   
+
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -243,12 +227,11 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Kit Refrigerante Coca Cola 2L + Fanta Guaraná 2L</a></h4>
+                      <span class="aa-product-price">R$ 10,99</span>
                     </figcaption>
                   </figure>
-                   
+
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -256,14 +239,10 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Néctar Maguary Maracujá 1L</a></h4>
+                      <span class="aa-product-price">R$ 4,58</span>
                     </figcaption>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sale" href="#">SALE!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -271,14 +250,9 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                    </figcaption>
+                      <h4 class="aa-product-title"><a href="#">Néctar Maguary Uva 1L</a></h4>
+                      <span class="aa-product-price">R$ 4,58</span>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -286,14 +260,9 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">This is Title</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
-                    </figcaption>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Antárctica Guaraná 2L</a></h4>
+                      <span class="aa-product-price">R$ 5,99</span>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sale" href="#">SALE!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -301,14 +270,10 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Coca Cola 2L</a></h4>
+                      <span class="aa-product-price">R$ 7,85</span>
                     </figcaption>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-sold-out" href="#">Sold Out!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -316,12 +281,11 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Guaraná Itubaina 2L</a></h4>
+                      <span class="aa-product-price">R$ 4,19</span>
                     </figcaption>
                   </figure>
-                   
+
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -329,14 +293,10 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante H2OH Limão 1,5L</a></h4>
+                      <span class="aa-product-price">R$ 5,99</span>
                     </figcaption>
                   </figure>
-                   
-                  <!-- product badge -->
-                  <span class="aa-badge aa-hot" href="#">HOT!</span>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -344,13 +304,89 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Kuat Guaraná 2L</a></h4>
+                      <span class="aa-product-price">R$ 3,99</span>
                     </figcaption>
                   </figure>
-
-                   
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Pepsi Cola 2L</a></h4>
+                      <span class="aa-product-price">R$ 5,29</span>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Refrigerante Pepsi Twist 2L</a></h4>
+                      <span class="aa-product-price">R$ 5,29</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco de Uva integral Aurora 1,5L</a></h4>
+                      <span class="aa-product-price">R$ 11,99</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco Del Valle 100% Laranja 1L</a></h4>
+                      <span class="aa-product-price">R$ 9,85</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco Del Valle 100% Uva 1L</a></h4>
+                      <span class="aa-product-price">R$ 9,85</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco Pronto Guaraviton Açaí 500ml</a></h4>
+                      <span class="aa-product-price">R$ 2,49</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco Pronto Life Laranja integral 2L</a></h4>
+                      <span class="aa-product-price">R$ 13,99</span>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li>
+                  <figure>
+                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
+                    <figcaption>
+                      <h4 class="aa-product-title"><a href="#">Suco Xando Laranja 900ml</a></h4>
+                      <span class="aa-product-price">R$ 5,99</span>
+                    </figcaption>
+                  </figure>
                 </li>
                 <!-- start single product item -->
                 <li>
@@ -358,12 +394,11 @@
                     <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Lorem ipsum doller</a></h4>
-                      <span class="aa-product-price">$45.50</span><span class="aa-product-price"><del>$65.50</del></span>
-                      <p class="aa-product-descrip">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam accusamus facere iusto, autem soluta amet sapiente ratione inventore nesciunt a, maxime quasi consectetur, rerum illum.</p>
+                      <h4 class="aa-product-title"><a href="#">Tônica Antárctica sem Açúcar 3 Limões 265ml</a></h4>
+                      <span class="aa-product-price">R$ 2,75</span>
                     </figcaption>
                   </figure>
-                   
+
                 </li>
               </ul>
               <!-- quick view modal -->
