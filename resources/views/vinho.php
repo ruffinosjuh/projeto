@@ -169,7 +169,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/concha-y-toro-tinto.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h5 class="aa-product-title"><a href="#">Vinho Tinto Chileto Concha Y Toro Cabernet Sauvignon 750ml</a></h5>
@@ -181,10 +181,10 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/pergola.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Vinho Tinto Pergola Suave 1L</a></h4>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Tinto Pérgola Suave 1L</a></h4>
                                             <span class="aa-product-price">R$ 21,99</span>
                                         </figcaption>
                                     </figure>
@@ -193,10 +193,10 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/terra-nostra.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
-                                            <h4 class="aa-product-title"><a href="#">Vinho Argentino Tinto Finca Terra Nestra 750ml</a></h4>
+                                            <h4 class="aa-product-title"><a href="#">Vinho Argentino Tinto Finca Terra Nostra 750ml</a></h4>
                                             <span class="aa-product-price">R$ 26,99</span>
                                         </figcaption>
                                     </figure>
@@ -205,7 +205,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/dom-manuel.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Vinho do Porto Português Dom Manuel Tawny Garrafa 750ml</a></h4>
@@ -216,7 +216,7 @@
                                     <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/quinta-morgado.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Vinho Tinto Quinta do Morgado Suave Garrafa 750ml</a></h4>
@@ -228,7 +228,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/via-latina.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Vinho Verde Via Latina Garrafa 750ml</a></h4>
@@ -239,7 +239,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/concha-y-toro.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Vinho Branco Chileno Concha Y Toro Sauvignon Blanc 750ml</a></h4>
@@ -251,7 +251,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/cantinho-do-vale.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Coquetel de Vinho Cantinho do Vale Pet 880ml</a></h4>
@@ -263,7 +263,7 @@
                                 <!-- start single product item -->
                                 <li>
                                     <figure>
-                                        <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                                        <a class="aa-product-img" href="#"><img src="img/salton.jpg" alt=""></a>
                                         <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                                         <figcaption>
                                             <h4 class="aa-product-title"><a href="#">Vinho Rose Salton Lunae Drinks 750ml</a></h4>
