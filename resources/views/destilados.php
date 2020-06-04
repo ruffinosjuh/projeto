@@ -170,7 +170,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/gin-strawberry.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Gin Rocks Strawberry Garrafa 1L</a></h4>
@@ -181,7 +181,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/velho-barreiro.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cachaça Velho Barreiro Garrafa 910ml</a></h4>
@@ -192,7 +192,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/vodka-ice.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Vodka Smirnoff Ice Original Garrafa 275ml</a></h4>
@@ -204,7 +204,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/gin-rocks.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Gin Rocks Garrafa 995ml</a></h4>
@@ -215,7 +215,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/51.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Aguardente Pirassununga 51 Garrafa 965ml</a></h4>
@@ -227,7 +227,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/conhaque.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Conhaque Dreher Garrafa 900ml</a></h4>
@@ -238,7 +238,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/smirnoff.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Vodka Smirnoff Red Garrafa 998ml</a></h4>
@@ -249,7 +249,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/catuaba.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Catuaba Selvagem Pet 1L</a></h4>
