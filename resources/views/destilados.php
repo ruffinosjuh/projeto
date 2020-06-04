@@ -173,8 +173,10 @@
                     <a class="aa-product-img" href="#"><img src="img/gin-strawberry.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
-                      <h4 class="aa-product-title"><a href="#">Gin Rocks Strawberry Garrafa 1L</a></h4>
-                      <span class="aa-product-price">R$ 29,98</span>
+                      @if ($errors->has('title'))
+                      <h4 class="aa-product-title"><a href="#">{{ errors->firt('title')}}</a></h4>
+                      <span class="aa-product-price">{{ errors->firt('price')}}</span>
+                      @endif
                     </figcaption>
                   </figure>
                 </li>
