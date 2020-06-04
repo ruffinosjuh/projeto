@@ -169,7 +169,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/agua-coco.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Água de Coco Ducoco 200 ml</a></h4>
@@ -180,7 +180,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/agua-com-gas.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Água Mineral com gás Crystal 1,5L</a></h4>
@@ -190,7 +190,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/agua-sem-gas.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Água Mineral sem gás Crystal 1,5L</a></h4>
@@ -202,7 +202,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/energetico-burn.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Energético Burn Garrafa 1L</a></h4>
@@ -212,7 +212,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/red-bull.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Energético Red Bull 250ml</a></h4>
@@ -224,7 +224,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/kit-refri.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Kit Refrigerante Coca Cola 2L + Fanta Guaraná 2L</a></h4>
@@ -236,7 +236,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-maracuja.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Néctar Maguary Maracujá 1L</a></h4>
@@ -247,7 +247,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-uva.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Néctar Maguary Uva 1L</a></h4>
@@ -257,7 +257,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/guarana.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Antárctica Guaraná 2L</a></h4>
@@ -267,7 +267,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/coca.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Coca Cola 2L</a></h4>
@@ -278,7 +278,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/itubaina.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Guaraná Itubaina 2L</a></h4>
@@ -290,7 +290,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/h2oh.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante H2OH Limão 1,5L</a></h4>
@@ -301,7 +301,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/kuat.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Kuat Guaraná 2L</a></h4>
@@ -311,7 +311,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/pepsi.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Pepsi Cola 2L</a></h4>
@@ -320,7 +320,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/twist.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Refrigerante Pepsi Twist 2L</a></h4>
@@ -330,7 +330,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-aurora.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco de Uva integral Aurora 1,5L</a></h4>
@@ -340,7 +340,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-laranja.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco Del Valle 100% Laranja 1L</a></h4>
@@ -350,7 +350,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-uva-del.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco Del Valle 100% Uva 1L</a></h4>
@@ -360,7 +360,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/guaraviton.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco Pronto Guaraviton Açaí 500ml</a></h4>
@@ -370,7 +370,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-life.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco Pronto Life Laranja integral 2L</a></h4>
@@ -380,7 +380,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/suco-xando.jpg" alt=" "></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Suco Xando Laranja 900ml</a></h4>
@@ -391,7 +391,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/tonica.jpg" alt=""></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Tônica Antárctica sem Açúcar 3 Limões 265ml</a></h4>
