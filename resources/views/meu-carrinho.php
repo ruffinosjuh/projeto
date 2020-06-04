@@ -65,10 +65,10 @@
               <!-- / header top left -->
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
-                  <li><a href="account.php">Minha Conta</a></li>
+                  <li><a href="account.php">Login</a></li>
                   <li class="hidden-xs"><a href="meu-carrinho.php">Meu Carrinho</a></li>
                   <li class="hidden-xs"><a href="checkout.php">Checkout</a></li>
-                  <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                  
                 </ul>
               </div>
             </div>

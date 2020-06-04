@@ -67,10 +67,10 @@ session_start();
                             <!-- / header top left -->
                             <div class="aa-header-top-right">
                                 <ul class="aa-head-top-nav-right">
-                                    <li><a href="account.php">Minha Conta</a></li>
+                                    <li><a href="account.php">Login</a></li>
                                     <li class="hidden-xs"><a href="meu-carrinho.php">Meu Carrinho</a></li>
                                     <li class="hidden-xs"><a href="checkout.php">Checkout</a></li>
-                                    <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -150,10 +150,10 @@ session_start();
         <div class="aa-catg-head-banner-area">
             <div class="container">
                 <div class="aa-catg-head-banner-content">
-                    <h2>Minha Conta</h2>
+                    <h2>Login</h2>
                     <ol class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li class="active">Minha Conta</li>
+                        <li class="active">Login</li>
                     </ol>
                 </div>
             </div>

@@ -65,7 +65,7 @@
               <div class="aa-header-top-right">
                 <ul class="aa-head-top-nav-right">
                   
-                  <li><a href="" data-toggle="modal" data-target="#login-modal">Login</a></li>
+                  
                 </ul>
               </div>
             </div>
