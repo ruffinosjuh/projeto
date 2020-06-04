@@ -169,7 +169,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/buchanans.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Buchanans 12 Anos Garrafa 1L</a></h4>
@@ -180,7 +180,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/jack-honey.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whiskey Jack Daniel's Honey 1L</a></h4>
@@ -191,7 +191,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/jack-preta.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whiskey Jack Daniel's 1L</a></h4>
@@ -203,7 +203,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/black-label.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Black Label 12 year's 1L</a></h4>
@@ -214,7 +214,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/johnnie-green.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Johnnie Walker Green Label Garrafa 750ml</a></h4>
@@ -226,7 +226,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/red-label.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Johnnie Walker Red Label 8 year's Garrafa 1L</a></h4>
@@ -237,7 +237,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/swing.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Johnnie Walker Swing Garrafa 750ml</a></h4>
@@ -248,7 +248,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/white-horse.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Escocês White Horse 8 year's 1L</a></h4>
@@ -259,7 +259,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/passport.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Passaport Scotch 1L</a></h4>
@@ -270,7 +270,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/ballantine.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Whisky Escocês Ballantine's Finest 1L</a></h4>
@@ -281,7 +281,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/johnnie-walker.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Johnnie Walker Gold Label Reserve Garrafa 750ml</a></h4>
@@ -293,7 +293,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/chivas.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whisky Escocês Chivas Regal 12 Anos 1L</a></h4>
@@ -303,7 +303,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/jack.jpg" alt="polo shirt img"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Whiskey Jack Daniel's Fire Garrafa 1L</a></h4>
