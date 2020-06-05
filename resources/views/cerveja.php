@@ -169,7 +169,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/imperio.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja necional Império Pilsen Lata 350ml</a></h4>
@@ -180,7 +180,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/brahma269.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Brahma 269ml</a></h4>
@@ -190,7 +190,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/heineken350.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Heineken Lata 350ml</a></h4>
@@ -202,7 +202,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/stella.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Stella Artois 330ml</a></h4>
@@ -213,7 +213,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/petrapuro.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Petra Puro Malte 350ml</a></h4>
@@ -225,7 +225,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/heinekenlong.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Heineken Long Neck 330ml</a></h4>
@@ -236,7 +236,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-7.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/amstel.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Amstel Lata 350ml</a></h4>
@@ -247,7 +247,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/bud.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Budweiser 350ml</a></h4>
@@ -258,7 +258,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-1.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/skol269.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Skol 269ml</a></h4>
@@ -268,7 +268,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-2.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/skolpuromalte.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Skol Puro Malte 269ml</a></h4>
@@ -279,7 +279,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-3.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/brahmamalz.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Brahma Malzbier 350ml</a></h4>
@@ -291,7 +291,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-4.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/eisen.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Eisenbahn Pilsen 350ml</a></h4>
@@ -302,7 +302,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-5.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/original.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Original Antarctica 350ml</a></h4>
@@ -313,7 +313,7 @@
                 <!-- start single product item -->
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/becks.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Beck's 330ml</a></h4>
@@ -323,7 +323,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/petra.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Petra Escura Premimum Lata 350ml</a></h4>
@@ -333,7 +333,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/bohemia.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Bohemia 350ml</a></h4>
@@ -343,7 +343,7 @@
                 </li>
                 <li>
                   <figure>
-                    <a class="aa-product-img" href="#"><img src="img/women/girl-6.png" alt="polo shirt img"></a>
+                    <a class="aa-product-img" href="#"><img src="img/coronoa.JPG" alt="polo shirt img" style="width:100%"></a>
                     <a class="aa-add-card-btn" href="#"><span class="fa fa-shopping-cart"></span>Adicionar ao Carrinho</a>
                     <figcaption>
                       <h4 class="aa-product-title"><a href="#">Cerveja Corona Extra 330ml</a></h4>
